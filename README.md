@@ -18,4 +18,4 @@ La evaluación utilizada en esta competición fue RMSE (Root Mean Square Error).
 Este proyecto permite aplicar habilidades de análisis de datos y modelado predictivo para desarrollar un modelo preciso de predicción de salarios de trabajos de científicos de datos en USD utilizando la evaluación RMSE.
 
 
-![image](https://github.com/pgmar257/Project-VIZ/blob/main/images/76dc53_f8165557dcab4fdd8c20315468aabbee_mv2.gif)
+![image](https://github.com/pgmar257/Kaggle-Project/blob/main/gif/Leonardo%20Dicaprio%20Throwing%20Money.gif)
