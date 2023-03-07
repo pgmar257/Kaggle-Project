@@ -19,3 +19,4 @@ Este proyecto permite aplicar habilidades de análisis de datos y modelado predi
 
 
 ![image](https://github.com/pgmar257/Kaggle-Project/blob/main/gif/Leonardo%20Dicaprio%20Throwing%20Money.gif)
+fin
